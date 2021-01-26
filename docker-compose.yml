@@ -5,4 +5,4 @@ services:
         build: ./bot
         restart: always
         volumes: 
-        - /home/discord-tts-bot/config:/var/docker/discord-tts-bot/discord-tts-bot/config
+        - /home/discord-tts-bot/config:/var/docker/discord-tts-bot/config
